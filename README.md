@@ -218,5 +218,5 @@ This repo does **not** deploy directly. After a push to `main`:
 2. ArgoCD syncs the Helm chart to EKS automatically
 
 To follow the full deployment flow, see:
-- [`Enterprise-GitOps-Platform-infra`](../Enterprise-GitOps-Platform-infra) — for cluster setup
-- [`Enterprise-GitOps-Platform-helm`](../Enterprise-GitOps-Platform-helm) — for Helm chart and ArgoCD config
+- [`Enterprise-GitOps-Platform-infra`](https://github.com/UsseF-1/Enterprise-GitOps-Platform-infra) — for cluster setup
+- [`Enterprise-GitOps-Platform-helm`](https://github.com/UsseF-1/Enterprise-GitOps-Platform-helm) — for Helm chart and ArgoCD config
