@@ -7,8 +7,8 @@
 > | Repo | Purpose |
 > |------|---------|
 > | **`Enterprise-GitOps-Platform-app`** ← you are here | Java source, Dockerfiles, CI pipeline |
-> | [`Enterprise-GitOps-Platform-infra`](../Enterprise-GitOps-Platform-infra) | Terraform — EKS, ECR, VPC, SonarQube |
-> | [`Enterprise-GitOps-Platform-helm`](../Enterprise-GitOps-Platform-helm) | Helm chart, ArgoCD manifests |
+> | [`Enterprise-GitOps-Platform-infra`](https://github.com/UsseF-1/Enterprise-GitOps-Platform-infra) | Terraform — EKS, ECR, VPC, SonarQube |
+> | [`Enterprise-GitOps-Platform-helm`](https://github.com/UsseF-1/Enterprise-GitOps-Platform-helm) | Helm chart, ArgoCD manifests |
 
 ---
 
